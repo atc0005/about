@@ -2,22 +2,25 @@
 
 ## Systems Administrator
 
-I have over 18 years of experience in providing IT support, training and
-guidance for environments consisting of physical, virtual and containerized
-servers. This is my day job. I heavily utilize versioning (SVN, Git) and
-automation wherever possible, though there is much still to do in that area.
+- 18 years experience
+- IT support, training, mentoring
+- physical, virtual, containerized servers
+- strong proponent and use of versioning (Git, Subversion) and configuration
+  management (Ansible)
 
 ## Junior / Intermediate developer
 
-I have worked with various languages during my years as a Systems
-Administrator at a junior to intermediate level. This includes batch files
-(don't laugh, there is a lot you can do with a batch file), shell scripting,
-Perl, Python, PowerShell, ...
+The Go projects found here reflect the majority of my growth in the Go
+language over the last year.
 
-I have also studied C and C++ and (thankfully) was able to transfer much of
-that investment into later languages that I worked with, such as Go.
+- worked with various languages regularly alongside sysadmin tasks
+  - recent: Go, Python, PowerShell, shell scripting
+  - past: batch files (don't laugh, it gets the job done), Perl
 
-My current Go programming focus has been ongoing for close to two years now; I
-started with a casual focus at first, then ramped up to a consistent and
-driven investment for over a year. The Go projects found here reflect the
-majority of that growth.
+- studied some languages from an academic pursuit, used knowledge gained with
+  later languages used
+  - C, C++ (much of knowledge transfers to Go)
+
+- heavy focus on Go programming
+  - casually for about a year
+  - very strong push (daily, multiple hours) for over a year
