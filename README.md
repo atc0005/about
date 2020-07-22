@@ -2,18 +2,22 @@
 
 ## Role: Systems Administrator
 
-- training & mentoring
-- proxy & web servers: Squid, Apache, Nginx, HAProxy, IIS
-- mail servers: Postfix, Dovecot
-- config/change management: Subversion, Subversion, Ansible
-- containers: Docker, LXD
-- databases: MySQL/MariaDB, PostgreSQL, Microsoft SQL Server
-- monitoring: Nagios, custom tooling
+- support: troubleshooting, training, documentation
+- proxies & web servers: `Squid`, `Apache`, `Nginx`, `HAProxy`, `IIS`
+- mail servers: `Postfix`, `Dovecot`, `Roundcube`, `DKIM`, `Postgrey`
+- config/change management: `Subversion`, `Git`, `Ansible`
+- containers: `Docker`, `LXD`
+- virtualization: `VMware`, `Hyper-V`, `VirtualBox`
+- databases: `MySQL`/`MariaDB`, `PostgreSQL`, `Microsoft SQL Server`
+- monitoring: `Nagios`, `custom tooling`, `Microsoft Teams`, `fail2ban`
+- logging: `rsyslog` (local, central receivers), `Graylog`
+- ticketing: `Redmine`, `Service Now`
 
 ## Role: Intermediate developer
 
-I work with various languages regularly alongside sysadmin tasks.
-
-- recent: Go, Python, PowerShell, shell scripting, Markdown, Textile,
-- past: batch files (don't laugh, it gets the job done), Perl
-- academic: C, C++
+- current:
+  - `Go`, `Python`, `PowerShell`, `shell scripting`,
+  - `Markdown`, `Textile`, `MediaWiki`, `reStructuredText`, `HTML`, `CSS`
+  - `Redmine`, `GitHub`, `Gitea`, `GitLab`
+- past: `batch files` (don't laugh, it gets the job done), `Perl`
+- academic: `C`, `C++`
