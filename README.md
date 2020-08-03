@@ -2,6 +2,9 @@
 
 ## Role: Systems Administrator
 
+<details>
+<summary>Experience</summary>
+
 - support: troubleshooting, training, documentation
 - proxies & web servers: `Squid`, `Apache`, `Nginx`, `HAProxy`, `IIS`
 - mail servers: `Postfix`, `Dovecot`, `Roundcube`, `DKIM`, `Postgrey`
@@ -13,7 +16,12 @@
 - logging: `rsyslog` (local, central receivers), `Graylog`
 - ticketing: `Redmine`, `Service Now`
 
+</details>
+
 ## Role: Intermediate developer
+
+<details>
+<summary>Experience</summary>
 
 - current:
   - `Go`, `Python`, `PowerShell`, `shell scripting`,
@@ -21,3 +29,5 @@
   - `Redmine`, `GitHub`, `Gitea`, `GitLab`
 - past: `batch files` (don't laugh, it gets the job done), `Perl`
 - academic: `C`, `C++`
+
+</details>
