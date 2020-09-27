@@ -14,7 +14,7 @@
 - databases: `MySQL`/`MariaDB`, `PostgreSQL`, `Microsoft SQL Server`
 - monitoring: `Nagios`, `custom tooling`, `Microsoft Teams`, `fail2ban`
 - logging: `rsyslog` (local, central receivers), `Graylog`
-- ticketing: `Redmine`, `Service Now`
+- ticketing: `Redmine`, `GitHub`, `GitLab`, `Service Now`
 
 </details>
 
@@ -24,7 +24,9 @@
 <summary>Experience</summary>
 
 - current:
-  - `Go`, `Python`, `PowerShell`, `shell scripting`,
+  - `Go`, `Python`, `PowerShell`, `shell scripting`
+  - `MySQL`/`MariaDB`, `SQLite`
+  - `Docker`, `LXD`
   - `Markdown`, `Textile`, `MediaWiki`, `reStructuredText`, `HTML`, `CSS`
   - `Redmine`, `GitHub` (including `GitHub Actions`), `Gitea`, `GitLab`
 - past: `batch files` (don't laugh, it gets the job done), `Perl`
