@@ -26,7 +26,7 @@
 - current:
   - `Go`, `Python`, `PowerShell`, `shell scripting`,
   - `Markdown`, `Textile`, `MediaWiki`, `reStructuredText`, `HTML`, `CSS`
-  - `Redmine`, `GitHub`, `Gitea`, `GitLab`
+  - `Redmine`, `GitHub` (including `GitHub Actions`), `Gitea`, `GitLab`
 - past: `batch files` (don't laugh, it gets the job done), `Perl`
 - academic: `C`, `C++`
 
