@@ -16,6 +16,10 @@
 # report those cases.
 "MD013": false
 
+# I am intentionally using the `details` and `summary` elements to "window
+# shade" verbose details.
+"MD033": false
+
 # Don't complain if sub-heading names are duplicated since this is a common
 # practice in CHANGELOG.md (e.g., "Fixed").
 "MD024":
